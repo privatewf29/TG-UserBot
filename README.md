@@ -22,7 +22,7 @@
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session) Untuk Masuk Ke Grup Support
+Caranya   [TEKAN DISINI](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session) 
 
 ## Bagaimana Cara Deploy?
 
@@ -39,7 +39,7 @@ Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](htt
 
   > Terakhir Hidupkan Dyno Lalu Check Logs (settings -> view logs) Jika Berhasil Enjoy :)
 ```
-Atau Bisa Gabung Ke Grup Lord Userbot -> [TEKAN DISINI](https://t.me/LordUserbot_Group)
+)
 ## <p align="center">DEPLOY LORD-USERBOT</p>
 
 
