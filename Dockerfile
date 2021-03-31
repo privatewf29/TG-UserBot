@@ -1,5 +1,5 @@
 # We're using Ubuntu 20.10
-FROM W29F/docker:groovy
+FROM w29f/docker:groovy
 
 #
 # Clone repo and prepare working directory
