@@ -22,7 +22,7 @@
 
 ### CARA MENDAPATKAN STRING SESSON
 
-Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://t.me/LordUserbot_Group) Untuk Masuk Ke Grup Support
+Caranya Pergi Ke Grup Support Lord-Userbot Lalu Ketik #String [TEKAN DISINI](https://replit.com/@ErichDaniken/Generate-Telegram-String-Session) Untuk Masuk Ke Grup Support
 
 ## Bagaimana Cara Deploy?
 
