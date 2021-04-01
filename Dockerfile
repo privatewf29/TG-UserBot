@@ -4,7 +4,7 @@ FROM w29f/w29fuserbot:latest
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b TG-UserBot https://github.com/W29F/TG-UserBot/userbot
+RUN git clone -b TG-UserBot https://github.com/W29F/TG-UserBot/root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
