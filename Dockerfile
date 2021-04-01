@@ -1,5 +1,5 @@
 # We're using Ubuntu 20.10
-FROM w29f/docker:groovy
+FROM w29f/docker:tg-userbot
 
 #
 # Clone repo and prepare working directory
