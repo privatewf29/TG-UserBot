@@ -1,10 +1,10 @@
 # We're using Ubuntu 20.10
-FROM liualvinas24/docker:groovy
+FROM w29f/docker:badboy
 
 #
 # Clone repo and prepare working directory
 #
-RUN git clone -b Lord-Userbot https://github.com/W29F/TG-UserBot /root/userbot
+RUN git clone -b w29fuserbot https://github.com/W29F/TG-UserBot /root/userbot
 RUN mkdir /root/userbot/.bin
 RUN pip install --upgrade pip setuptools
 WORKDIR /root/userbot
