@@ -1,5 +1,5 @@
 # We're using Ubuntu 20.10
-FROM w29f/docker:latest
+FROM w29f/w29fuserbot:latest
 
 #
 # Clone repo and prepare working directory
